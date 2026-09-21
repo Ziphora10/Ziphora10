@@ -1,44 +1,44 @@
-# 👋 Hi, I'm Ziphora Sedibane
+### 👋 Hi, I'm Ziphora Sedibane
 
-💻 **Junior Software Development Engineer @ Pycentric**  
-🎯 Passionate about building reliable, scalable backend systems that make a real impact.
+💻 Junior Software Development Engineer @ Pycentric
+🎯 Backend-focused engineer who loves turning complex ideas into clean, efficient code
 
----
+I build APIs, automate workflows, and deploy systems with modern tools and practices.
+Currently sharpening my skills in microservices and cloud-native architecture.
 
-### 🧠 About Me
-I’m a backend-focused software development engineer who loves turning complex ideas into clean, efficient code.  
-My work centers on creating APIs, automating workflows, and deploying systems with modern tools and best practices.
-
-- 🚀 Currently improving my skills in **microservices** and **cloud-native architectures**  
-- 🧩 Strong believer in **clean code**, **testing**, and **continuous learning**  
+- 🧩 Strong believer in clean code, testing, and continuous learning
 - 💬 Always open to collaborations and technical discussions
 
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Python, JavaScript, SQL  
-**Frameworks:** FastAPI, Django, Flask, Node.js  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**DevOps & Tools:** Docker, GitHub Actions, Linux, Nginx  
-**Others:** REST APIs, Unit Testing, CI/CD, Object-Oriented Design  
+
+**Languages:** Python, JavaScript, SQL
+**Frameworks:** FastAPI, Django, Flask, Node.js
+**Databases:** PostgreSQL, MySQL, MongoDB
+**DevOps & Tools:** Docker, GitHub Actions, Linux, Nginx
+**Other:** REST APIs, Unit Testing, CI/CD, Object-Oriented Design
 
 ---
 
-### 📂 Highlighted Projects
-🔹 **Task Tracker API (In Progress)**  
-A backend API for managing tasks, built with **Python, FastAPI, PostgreSQL, and Docker**.  
-Features include JWT authentication, CRUD operations for tasks, and containerized setup for easy deployment.  
+### 📂 Featured Projects
 
-*(More projects coming soon as I continue to build my backend portfolio!)*
+**[Habit Tracker API](https://github.com/Ziphora10/habit-tracker-api)**
+Backend REST API for tracking daily habits — JWT auth, per-user CRUD, streak calculation, SQLite, full pytest suite, Dockerized, with GitHub Actions CI.
+`Python` `FastAPI` `SQLAlchemy` `Docker` `JWT`
 
+**[Task Tracker API](https://github.com/Ziphora10/task-tracker-api)** *(In Progress)*
+Backend API for managing tasks — JWT authentication, CRUD operations, containerized setup.
+`Python` `FastAPI` `PostgreSQL` `Docker`
 
+*(More projects coming soon as I continue building my backend portfolio!)*
+
+---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ziphora%20Sedibane-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sedibane-ziphora-455867250)  
-📧 **Email:** sedibanemoshwa@gmail.com
 
+📧 [sedibanemoshwa@gmail.com](mailto:sedibanemoshwa@gmail.com)
+🔗 [LinkedIn](#) <www.linkedin.com/in/sedibane-ziphora-455867250>
 
----
-
-⭐ *“Building reliable systems, one commit at a time.”*
+⭐ *"Building reliable systems, one commit at a time."*
 
