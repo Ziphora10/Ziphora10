@@ -27,7 +27,7 @@ Currently sharpening my skills in microservices and cloud-native architecture.
 Backend REST API for tracking daily habits — JWT auth, per-user CRUD, streak calculation, SQLite, full pytest suite, Dockerized, with GitHub Actions CI.
 `Python` `FastAPI` `SQLAlchemy` `Docker` `JWT`
 
-**[Task Tracker API](https://github.com/Ziphora10/task-tracker-api)** *(In Progress)*
+   **Task Tracker API** *(In Progress — repo coming soon)*
 Backend API for managing tasks — JWT authentication, CRUD operations, containerized setup.
 `Python` `FastAPI` `PostgreSQL` `Docker`
 
