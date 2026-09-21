@@ -38,7 +38,6 @@ Backend API for managing tasks — JWT authentication, CRUD operations, containe
 ### 📫 Connect With Me
 
 📧 [sedibanemoshwa@gmail.com](mailto:sedibanemoshwa@gmail.com)
-🔗 [LinkedIn](#) <www.linkedin.com/in/sedibane-ziphora-455867250>
-
+🔗 [LinkedIn](https://www.linkedin.com/in/sedibane-ziphora-455867250)
 ⭐ *"Building reliable systems, one commit at a time."*
 
